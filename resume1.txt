@@ -1,0 +1,2 @@
+John Doe
+Experienced Machine Learning Engineer with 4 years of experience in Python, NLP, and model deployment. Worked extensively with scikit-learn, pandas, numpy, and PyTorch. Familiar with AWS and SQL. Strong communication and teamwork skills.

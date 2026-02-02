@@ -1,0 +1,6 @@
+sentence-transformers>=2.0.0
+spacy>=3.0.0
+nltk>=3.6
+numpy>=1.21
+scikit-learn>=1.0
+pandas>=1.3

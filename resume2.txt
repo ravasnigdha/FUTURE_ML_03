@@ -1,0 +1,2 @@
+Jane Smith
+Data Scientist skilled in Python, data analysis, and visualization. Experience using pandas, numpy, scikit-learn and TensorFlow. Worked on NLP projects and model evaluation. Comfortable with SQL and cloud services.
